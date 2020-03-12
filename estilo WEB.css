@@ -1,0 +1,65 @@
+body
+{
+	background: blue;
+	color: white;
+	margin: 0px;
+}
+.titulo
+{
+	color: black;
+	font-size: 20px;
+	margin: 0;
+}
+section
+{
+	text-align: center;
+	height: 200px;
+	width: 100%;
+	margin: 10px 0 10px 0;
+}
+.opcservicio
+{
+	margin: 0 20px 0 20px;
+	display: inline-block;
+	height: 250px;
+	width: 200px;
+	background: white;
+	color: black;
+}
+#menu
+{
+	height: 100px;
+	width: 100%;
+	background: purple;
+	position: fixed;
+	top: -10px;
+}
+#cabecera
+{
+	margin-top: 110px;
+	background: yellow;
+	border-radius: 5px
+}
+#servicios
+{
+	background: red;
+	height: 300px;
+}
+.tam
+{
+	font-size: 20px;
+	color: blue;
+
+}
+#conocenos
+{
+	background: green;
+}
+#contactanos
+{
+	background: pink;
+}
+#pie
+{
+	background: lightgrey;
+}
